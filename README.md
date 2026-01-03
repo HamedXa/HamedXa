@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hamed Sharafeldin
 
-<!--
-**HamedXa/HamedXa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analyst | Data Analytics | Winnipeg, MB**
 
-Here are some ideas to get you started:
+Experienced in requirements gathering, process optimization, and data-driven decision making. Background in manufacturing analytics, stakeholder collaboration, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Business Analysis**: Requirements gathering, process modeling, stakeholder management, data validation
+- **Technical**: SQL, Python, Power BI, Excel, Neo4j, Docker
+- **Tools**: Lucidchart, Jira, Git
+
+## Featured Projects
+
+- [**Box Store E-Commerce Database**](https://github.com/HamedXa/boxstore-database) - Database design with ERD documentation for order processing and inventory management
+- [**Manufacturing Quality & Process Analysis**](https://github.com/HamedXa/manufacturing-quality-analysis) - Production defect analysis with process improvement recommendations *(in progress)*
+- [**Supply Chain Analytics Dashboard**](https://github.com/HamedXa/supply-chain-dashboard) - Logistics performance metrics and optimization insights *(in progress)*
+
+## Contact
+
+- 📧 Email: hamedsharafeldin1@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/hamed-sharafeldin-821273203](https://linkedin.com/in/hamed-sharafeldin-821273203)
+- 📍 Location: Winnipeg, MB, Canada
+
+---
+
+*Currently seeking Business Analyst opportunities in manufacturing and operations*
