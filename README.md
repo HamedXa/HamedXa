@@ -11,6 +11,7 @@ Data analyst with 3.5+ years in high-volume fulfillment operations at SkipTheDis
 
 ## Featured Projects
 - **[Olist Logistics Performance Analysis](https://github.com/HamedXa/olist-logistics-analysis)** — End-to-end logistics analytics on 96k+ e-commerce orders; diagnosed last-mile delays as the primary driver of late delivery. Python, SQL, Tableau.
+- **[Supply Chain Analytics Dashboard](https://github.com/HamedXa/supply-chain-dashboard)** — Interactive dashboard monitoring on-time delivery, order accuracy, and shipping costs across carriers and regions. Python, Plotly, SQL.
 - **[Manufacturing Quality & Predictive Maintenance Analysis](https://github.com/HamedXa/manufacturing-quality-analysis)** — Failure-mode analysis on the AI4I 2020 dataset; Python pipeline with KPI reporting and full documentation.
 - **[Box Store E-Commerce Database](https://github.com/HamedXa/boxstore-database)** — MySQL database design for order processing, inventory, and transactions.
 
