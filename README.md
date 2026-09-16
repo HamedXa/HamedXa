@@ -1,27 +1,22 @@
 # Hamed Sharafeldin
+**Data Analyst | SQL · Python · Power BI · Tableau | Winnipeg, MB**
 
-**Business Analyst | Data Analytics | Winnipeg, MB**
-
-Experienced in requirements gathering, process optimization, and data-driven decision making. Background in manufacturing analytics, stakeholder collaboration, and system design.
+Data analyst with 3.5+ years in high-volume fulfillment operations at SkipTheDishes and a Data Science & ML diploma from RRC Polytech. I turn operational data into decisions — KPI dashboards, root-cause analysis, and reporting automation.
 
 ## Technical Skills
-
-- **Business Analysis**: Requirements gathering, process modeling, stakeholder management, data validation
-- **Technical**: SQL, Python, Power BI, Excel, Neo4j, Docker
-- **Tools**: Lucidchart, Jira, Git
+- **Analysis**: SQL, Python (pandas, NumPy, scikit-learn), advanced Excel (Power Query, Power Pivot)
+- **Visualization**: Power BI, Tableau
+- **Data Engineering**: ETL pipelines, SQLite, Neo4j, Git, Docker, Azure
+- **Certifications**: Microsoft Certified Power BI Data Analyst Associate (PL-300) · Microsoft Certified Azure Fundamentals (AZ-900)
 
 ## Featured Projects
-
-- [**Box Store E-Commerce Database**](https://github.com/HamedXa/boxstore-database) - Database design with ERD documentation for order processing and inventory management
-- [**Manufacturing Quality & Process Analysis**](https://github.com/HamedXa/manufacturing-quality-analysis) - Production defect analysis with process improvement recommendations *(in progress)*
-- [**Supply Chain Analytics Dashboard**](https://github.com/HamedXa/supply-chain-dashboard) - Logistics performance metrics and optimization insights *(in progress)*
+- **[Olist Logistics Performance Analysis](https://github.com/HamedXa/olist-logistics-analysis)** — End-to-end logistics analytics on 96k+ e-commerce orders; diagnosed last-mile delays as the primary driver of late delivery. Python, SQL, Tableau.
+- **[Manufacturing Quality & Predictive Maintenance Analysis](https://github.com/HamedXa/manufacturing-quality-analysis)** — Failure-mode analysis on the AI4I 2020 dataset; Python pipeline with KPI reporting and full documentation.
+- **[Box Store E-Commerce Database](https://github.com/HamedXa/boxstore-database)** — MySQL database design for order processing, inventory, and transactions.
 
 ## Contact
+- 📧 hamedsharafeldin1@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamed-sharafeldin-821273203)
+- 📍 Winnipeg, MB, Canada
 
-- 📧 Email: hamedsharafeldin1@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/hamed-sharafeldin-821273203](https://linkedin.com/in/hamed-sharafeldin-821273203)
-- 📍 Location: Winnipeg, MB, Canada
-
----
-
-*Currently seeking Business Analyst opportunities in manufacturing and operations*
+*Open to Data Analyst, Reporting Analyst, Operations Analyst, Logistics Analyst, and BI Analyst roles — remote across Canada or on-site/hybrid in Winnipeg.*
