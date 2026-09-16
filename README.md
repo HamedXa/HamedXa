@@ -1,23 +1,23 @@
 # Hamed Sharafeldin
 **Data Analyst | SQL · Python · Power BI · Tableau | Winnipeg, MB**
 
-Data analyst with 3.5+ years in high-volume fulfillment operations at SkipTheDishes and a Data Science & ML diploma from RRC Polytech. I turn operational data into decisions — KPI dashboards, root-cause analysis, and reporting automation.
+I'm a data analyst with 3.5+ years in high-volume fulfillment operations at SkipTheDishes, and a Data Science & ML diploma from RRC Polytech. I turn operational data into decisions: KPI dashboards, root-cause analysis, and reporting people actually use.
 
-## Technical Skills
-- **Analysis**: SQL, Python (pandas, NumPy, scikit-learn), advanced Excel (Power Query, Power Pivot)
-- **Visualization**: Power BI, Tableau
-- **Data Engineering**: ETL pipelines, SQLite, Neo4j, Git, Docker, Azure
-- **Certifications**: Microsoft Certified Power BI Data Analyst Associate (PL-300) · Microsoft Certified Azure Fundamentals (AZ-900)
+## What I work with
+- **Analysis:** SQL, Python (pandas, NumPy, scikit-learn), Excel (Power Query, Power Pivot)
+- **Visualization:** Power BI, Tableau
+- **Data engineering:** ETL pipelines, SQLite, Neo4j, Git, Docker, Azure
+- **Certifications:** Microsoft Certified Power BI Data Analyst Associate (PL-300), Microsoft Certified Azure Fundamentals (AZ-900)
 
-## Featured Projects
-- **[Olist Logistics Performance Analysis](https://github.com/HamedXa/olist-logistics-analysis)** — End-to-end logistics analytics on 96k+ e-commerce orders; diagnosed last-mile delays as the primary driver of late delivery. Python, SQL, Tableau.
-- **[Supply Chain Analytics Dashboard](https://github.com/HamedXa/supply-chain-dashboard)** — Interactive dashboard monitoring on-time delivery, order accuracy, and shipping costs across carriers and regions. Python, Plotly, SQL.
-- **[Manufacturing Quality & Predictive Maintenance Analysis](https://github.com/HamedXa/manufacturing-quality-analysis)** — Failure-mode analysis on the AI4I 2020 dataset; Python pipeline with KPI reporting and full documentation.
-- **[Box Store E-Commerce Database](https://github.com/HamedXa/boxstore-database)** — MySQL database design for order processing, inventory, and transactions.
+## Projects
+- **[Olist Logistics Performance Analysis](https://github.com/HamedXa/olist-logistics-analysis)** — Dug into 96k+ e-commerce orders to find what was driving late deliveries. Last-mile delays, mostly. Python, SQL, Tableau.
+- **[Supply Chain Analytics Dashboard](https://github.com/HamedXa/supply-chain-dashboard)** — Dashboard tracking on-time delivery, order accuracy, and shipping costs across carriers and regions. Python, Plotly, SQL.
+- **[Manufacturing Quality & Predictive Maintenance Analysis](https://github.com/HamedXa/manufacturing-quality-analysis)** — Failure analysis on the AI4I 2020 dataset, with a full Python pipeline and docs.
+- **[Box Store E-Commerce Database](https://github.com/HamedXa/boxstore-database)** — Designed a MySQL database for orders, inventory, and transactions. A school project, but a solid one.
 
 ## Contact
-- 📧 hamedsharafeldin1@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/hamed-sharafeldin-821273203)
-- 📍 Winnipeg, MB, Canada
+- hamedsharafeldin1@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/hamed-sharafeldin-821273203/)
+- Winnipeg, MB, Canada
 
-*Open to Data Analyst, Reporting Analyst, Operations Analyst, Logistics Analyst, and BI Analyst roles — remote across Canada or on-site/hybrid in Winnipeg.*
+*Looking for Data Analyst, Reporting Analyst, Operations Analyst, Logistics Analyst, or BI Analyst roles. Remote across Canada, or on-site/hybrid in Winnipeg.*
